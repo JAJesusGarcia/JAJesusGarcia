@@ -1,16 +1,30 @@
-## Hi there 👋
+# ¡Hola! 👋
 
-<!--
-**JAJesusGarcia/JAJesusGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Jesus García, un desarrollador apasionado con experiencia en Node.js, Express, TypeScript, y muchas otras tecnologías.
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Actualmente, estoy trabajando en proyectos utilizando **Node.js** y **TypeScript**.
+- 💼 Colaboro con [Synergy2Devs](https://github.com/Synergy2Devs) y [Marcelo Robin](https://github.com/marcelorobin).
+- 🚀 Estoy interesado en la automatización de procesos y la mejora continua.
+
+## Proyectos Destacados
+
+- **[netepScript](https://github.com/Synergy2Devs/netepScript):** Automatice la configuración inicial de proyectos Node.js con Express, TypeScript, ESLint y Prettier
+- **[JessFlix](https://jajesusgarcia.github.io/JessFlix/):** CINEMA. Proyecto integrador M2 - Henry
+- **[Sobre Mi](https://jajesusgarcia.github.io/Primer-Pagina-Web-con-JS/):** Proyecto integrador M1 - Henry.
+
+## Contacto
+
+- [LinkedIn](https://www.linkedin.com/in/jesusjagarcia/)
+- [Email](mailto:jesusjagarcia98@gmail.com)
+
+## Habilidades
+
+- **Lenguajes:** JavaScript, TypeScript, HTML, CSS
+- **Frameworks:** Node.js, Express.js, React
+- **Herramientas:** Git, Docker, ESLint, Prettier
+
+---
+
+¡Gracias por visitar mi perfil!
