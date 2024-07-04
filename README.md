@@ -5,7 +5,7 @@ Soy Jesus García, un desarrollador apasionado con experiencia en Node.js, Expre
 ## Sobre mí
 
 - 🌱 Actualmente, estoy trabajando en proyectos utilizando:
-     **JavaScript** || **Redux** || **React** || **Next.js** || **Nest** || **PostgreSQL** || **Node.js** || **TypeScript** || **Docker** || **MongoDB** || **TypeORM**
+     **JavaScript** || **React** || **Next.js** || **PostgreSQL** || **Node.js** || **TypeScript** || **Docker** || **MongoDB** || **TypeORM**
 - 💼 Fundador de [Synergy2Devs](https://github.com/Synergy2Devs) junto con [Marcelo Robin](https://github.com/marcelorobin).
 - 🚀 Estoy interesado en la automatización de procesos y la mejora continua.
 
