@@ -1,31 +1,50 @@
-# ¡Hola! 👋
+# 👋 ¡Hola! Soy Jesús García
 
-Soy Jesus García, un desarrollador apasionado con experiencia en Node.js, Express, TypeScript, y muchas otras tecnologías.
-
-## Sobre mí
-
-- 🌱 Actualmente, estoy trabajando en proyectos utilizando:
-     **JavaScript** || **React** || **Next.js** || **PostgreSQL** || **Node.js** || **TypeScript** || **Docker** || **MongoDB** || **TypeORM**
-- 💼 Fundador de [Synergy2Devs](https://github.com/Synergy2Devs) junto con [Marcelo Robin](https://github.com/marcelorobin).
-- 🚀 Estoy interesado en la automatización de procesos y la mejora continua.
-
-## Proyectos Destacados
-
-- **[netepScript](https://github.com/Synergy2Devs/netepScript):** Automatice la configuración inicial de proyectos Node.js con Express, TypeScript, ESLint y Prettier
-- **[JessFlix](https://jajesusgarcia.github.io/JessFlix/):** CINEMA. Proyecto integrador M2 - Henry
-- **[Sobre Mi](https://jajesusgarcia.github.io/Primer-Pagina-Web-con-JS/):** Proyecto integrador M1 - Henry.
-
-## Contacto
-
-- [LinkedIn](https://www.linkedin.com/in/jesusjagarcia/)
-- [Email](mailto:jesusjagarcia98@gmail.com)
-
-## Habilidades
-
-- **Lenguajes:** JavaScript, TypeScript, HTML, CSS
-- **Frameworks:** Node.js, Express.js, React
-- **Herramientas:** Git, Docker, ESLint, Prettier
+Desarrollador Full Stack con enfoque en backend. Me encanta crear herramientas útiles, automatizar procesos y aprender tecnologías modernas que realmente aporten valor. Busco seguir creciendo en equipos donde la colaboración, la curiosidad y la mejora continua sean prioridad.
 
 ---
+
+## 🚀 Sobre mí
+
+- 💻 Stack actual:  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+  ![TypeORM](https://img.shields.io/badge/TypeORM-E83524?style=flat&logo=typeorm&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+- 🤝 Co-fundador de [Synergy2Devs](https://github.com/Synergy2Devs), una comunidad colaborativa para aprender y construir proyectos reales junto a otros devs.
+
+- 🧠 Apasionado por la automatización, el aprendizaje constante y el desarrollo backend escalable.
+
+---
+
+## 🔧 Herramienta destacada
+
+- 🛠️ **[netepScript](https://github.com/Synergy2Devs/netepScript)**  
+  CLI publicada en NPM para crear proyectos Node.js con Express y TypeScript configurados con ESLint y Prettier.  
+  `npm i netepscript`
+
+---
+
+## 🧑‍💻 Portfolio
+
+🌐 [https://portfolio-zeta-flax-88.vercel.app/](https://portfolio-zeta-flax-88.vercel.app/)
+
+---
+
+## 📫 Contacto
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/jesusjagarcia/)
+- 📧 [jesusjagarcia98@gmail.com](mailto:jesusjagarcia98@gmail.com)
+- 💻 [GitHub](https://github.com/JAJesusGarcia)
+
+---
+
+> *"Sigo aprendiendo cada día para construir soluciones útiles, limpias y escalables."*
 
 ¡Gracias por visitar mi perfil!
